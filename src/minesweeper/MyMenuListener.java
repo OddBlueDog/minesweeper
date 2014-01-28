@@ -1,4 +1,5 @@
 package minesweeper;
+
 import java.awt.BorderLayout;
 import java.awt.Window;
 import java.awt.event.ActionEvent;

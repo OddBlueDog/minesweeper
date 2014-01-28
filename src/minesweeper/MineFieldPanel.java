@@ -1,4 +1,6 @@
 package minesweeper;
+
+
 import java.awt.Dimension;
 import java.awt.GridLayout;
 
@@ -46,7 +48,7 @@ public class MineFieldPanel extends JPanel {
 		for(int i = 0; i < mineField.getRows(); i++) {
 			for(int j = 0; j < mineField.getColumns(); j++) {
 				if(mineField.getMineTile(i,j).toString() == "@") {
-					ImageIcon flag = new ImageIcon("resources/flag.png");
+					ImageIcon flag = new ImageIcon(getClass().getResource("/res/flag.png"));
 					mineTileButtonArray[i][j].setIcon(flag);
 				} else {
 					switch(mineField.getMineTile(i,j).getMinedNeighbours()) {
