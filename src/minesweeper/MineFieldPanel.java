@@ -9,7 +9,6 @@ import javax.swing.JPanel;
 
 /**
  * 
- * @author CandNo:22368
  * A MineFieldPanel is the main panel that contains the minefield grid and all the buttons.
  */
 public class MineFieldPanel extends JPanel {

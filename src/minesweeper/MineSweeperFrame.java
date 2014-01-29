@@ -9,7 +9,6 @@ import javax.swing.JMenuItem;
 
 /**
  * 
- * @author CandNo:22368
  * This is the main frame that represents the game as a whole. The class is exteneded from JFrame to
  * provide all the functionaility that JFrame provides.
  */

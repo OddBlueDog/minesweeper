@@ -13,7 +13,6 @@ import javax.swing.SwingUtilities;
 
 /**
  * 
- * @author CandNo: 22368
  * MyMenuListener is used to listen to which JMenuItem has been selected within the MineSweeperFrame.
  */
 public class MyMenuListener implements ActionListener {

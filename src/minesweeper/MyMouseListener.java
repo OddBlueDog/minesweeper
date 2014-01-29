@@ -9,7 +9,6 @@ import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
 /**
  * 
- * @author CandNo:22368
  *
  *MyMouseListener is used to listen to the MineTileButton that has been pressed within the grid of the
  *minefield
