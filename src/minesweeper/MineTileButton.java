@@ -4,7 +4,6 @@ import javax.swing.JButton;
 
 /**
  * 
- * @author CandNo: 22368
  * represents a MineTitleButton within the minefield.
  */
 
